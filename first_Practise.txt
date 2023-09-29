@@ -1,3 +1,5 @@
 welcome !!!!!
 take input from user
 add values
+
+submit code to the database
