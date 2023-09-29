@@ -1,1 +1,3 @@
 welcome !!!!!
+take input from user
+add values
